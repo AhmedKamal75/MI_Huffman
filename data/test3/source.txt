@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/tavoglc/covid19-sequences-fasta?resource=download&select=group_2.fasta

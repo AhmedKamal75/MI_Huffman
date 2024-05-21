@@ -1,0 +1,113 @@
+------------data/test1/test.txt:(size = 3kb)
+----n = 1
+Analysis:
+Time taken to generate Huffman codes: 0.066 seconds
+Number of unique symbols encountered: 41
+----Compression completed successfully----
+Time taken: 0.035 seconds
+Compression ratio: 1.3753387533875339
+----Decompression completed successfully----
+Time taken: 0.063 seconds
+Compression ratio: 1.3753387533875339
+----n = 2
+Analysis:
+Time taken to generate Huffman codes: 0.023 seconds
+Number of unique symbols encountered: 252
+----Compression completed successfully----
+Time taken: 0.043 seconds
+Compression ratio: 0.5397979081723099
+----Decompression completed successfully----
+Time taken: 0.151 seconds
+Compression ratio: 0.5397979081723099
+----n = 4
+Analysis:
+Time taken to generate Huffman codes: 0.021 seconds
+Number of unique symbols encountered: 587
+----Compression completed successfully----
+Time taken: 0.038 seconds
+Compression ratio: 0.2483281683249062
+----Decompression completed successfully----
+Time taken: 0.122 seconds
+Compression ratio: 0.2483281683249062
+----n = 8
+Analysis:
+Time taken to generate Huffman codes: 0.022 seconds
+Number of unique symbols encountered: 371
+----Compression completed successfully----
+Time taken: 0.041 seconds
+Compression ratio: 0.3457477006926309
+----Decompression completed successfully----
+Time taken: 0.111 seconds
+Compression ratio: 0.3457477006926309
+
+------------data/test2/test.txt:(size = 1MB)
+----n = 1
+Analysis:
+Time taken to generate Huffman codes: 1.235 seconds
+Number of unique symbols encountered: 42
+----Compression completed successfully----
+Time taken: 3.406 seconds
+Compression ratio: 1.8614750505210351
+----Decompression completed successfully----
+Time taken: 2.715 seconds
+Compression ratio: 1.8614750505210351
+----n = 2
+Analysis:
+Time taken to generate Huffman codes: 1.229 seconds
+Number of unique symbols encountered: 318
+----Compression completed successfully----
+Time taken: 3.071 seconds
+Compression ratio: 2.0961811828419505
+----Decompression completed successfully----
+Time taken: 9.625 seconds
+Compression ratio: 2.0961811828419505
+----n = 4
+Analysis:
+Time taken to generate Huffman codes: 1.152 seconds
+Number of unique symbols encountered: 3880
+----Compression completed successfully----
+Time taken: 3.069 seconds
+Compression ratio: 2.3350133933256974
+----Decompression completed successfully----
+Time taken: 140.793 seconds
+Compression ratio: 2.3350133933256974
+----n = 8
+
+------------data/test3/test.fasta:(7.1MB)
+----n = 1
+Analysis:
+Time taken to generate Huffman codes: 6.952 seconds
+Number of unique symbols encountered: 4
+----Compression completed successfully----
+Time taken: 17.388 seconds
+Compression ratio: 3.9999066718327105
+----Decompression completed successfully----
+Time taken: 5.808 seconds
+Compression ratio: 3.9999066718327105
+----n = 2
+Analysis:
+Time taken to generate Huffman codes: 6.751 seconds
+Number of unique symbols encountered: 17
+----Compression completed successfully----
+Time taken: 16.999 seconds
+Compression ratio: 4.070043033365967
+----Decompression completed successfully----
+Time taken: 6.844 seconds
+Compression ratio: 4.070043033365967
+----n = 4
+Analysis:
+Time taken to generate Huffman codes: 6.533 seconds
+Number of unique symbols encountered: 257
+----Compression completed successfully----
+Time taken: 16.873 seconds
+Compression ratio: 4.124736796057045
+----Decompression completed successfully----
+Time taken: 29.323 seconds
+Compression ratio: 4.124736796057045
+----n = 8
+Analysis:
+Time taken to generate Huffman codes: 6.406 seconds
+Number of unique symbols encountered: 21089
+----Compression completed successfully----
+Time taken: 17.453 seconds
+Compression ratio: 3.261001690989337
