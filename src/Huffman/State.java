@@ -6,7 +6,7 @@ import java.util.Map;
 public class State implements Comparable<State>{
     private State left;
     private State right;
-    private final ArrayList<Byte> symbol; // old code
+    private final ArrayList<Byte> symbol;
     private final double probability; // from the frequency
 
     public State(ArrayList<Byte> symbol, double probability) {

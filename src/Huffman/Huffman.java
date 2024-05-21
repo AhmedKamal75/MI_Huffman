@@ -70,9 +70,9 @@ public class Huffman {
 //            for (Byte b : entry.getKey()) {
 //                sb.append((char) b.byteValue());
 //            }
-//            System.out.println("Key (" + sb.toString() + ") -> Value: " + entry.getValue());
+//            System.out.println("Symbol (" + sb.toString() + ") -> Code: " + entry.getValue());
 //        }
-
+//
 //        assert queue.peek() != null;
 //        queue.peek().printTree("",true);
 
